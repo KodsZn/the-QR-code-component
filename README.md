@@ -5,15 +5,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
   - [Links](#links)
+  - [Screenshot](#ScreenShot).
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://tubular-douhua-a7d38e.netlify.app))
+### ScreenShot
+![Screenshot QR](https://github.com/KodsZn/the-QR-code-component/assets/139270026/942ac198-7cba-4cc0-8fc7-df9024ccfc10)
 
 ### Built with
 
