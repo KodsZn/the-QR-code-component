@@ -12,7 +12,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 
 ### Links
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://tubular-douhua-a7d38e.netlify.app))
+- Live Site URL:[(https://tubular-douhua-a7d38e.netlify.app)]
 ### ScreenShot
 ![Screenshot QR](https://github.com/KodsZn/the-QR-code-component/assets/139270026/942ac198-7cba-4cc0-8fc7-df9024ccfc10)
 
